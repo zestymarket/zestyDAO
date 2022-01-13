@@ -16,13 +16,9 @@ We would like to move towards the transition of Zesty and the products that it o
 
 ## Value In The Metaverse
 
-As the web, which connects everyone in the world, becomes more spatial in nature, the content that people experience will also become more 3D.
+As the web, which connects everyone in the world, becomes more spatial in nature, the content that people experience will also become more 3D. To experience these spaces, people will go out to attain headsets that give them full immersion and access to these spaces.
 
-To experience these spaces, people will go out to attain headsets that give them full immersion and access to these spaces.
-
-As people spend _time_ in these spaces, they will inevitably become better at certain skills, achieve things and enter social gatherings and experiences with other people.
-
-The time spent in spaces is valuable, and thus the spaces become valuable too due to continued usage of the space, the space attains a level of Lindy effect.
+As people spend _time_ in these spaces, they will inevitably become better at certain skills, achieve things and enter social gatherings and experiences with other people. The time spent in spaces is valuable, and thus the spaces become valuable too due to continued usage of the space, the space attains a level of Lindy effect.
 
 Social experiences allow for relationships to form, which leads or organization and coordination by the participants of the metaverse, which will also lead to creation of companies and DAOs.
 
