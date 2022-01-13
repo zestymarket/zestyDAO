@@ -1,6 +1,6 @@
 # zestyDAO
 
-**Abstract**
+## Abstract
 
 ZestyDAO is a collective committed to empowering entrepreneurs and creators with tooling, infrastructure and a community that facilitates sustainable business-building in the metaverse. More specifically, we believe that the intersection of web3 and XR will unlock more value when combined than on their own. XR can borrow from web3 ideas around digital ownership, and XR will help people in web3 develop relationships faster through virtual presence offered by XR hardware.
 
@@ -14,7 +14,7 @@ Today, Zesty currently offers two different products:
 
 We would like to move towards the transition of Zesty and the products that it offers, into a public good.
 
-**Value In The Metaverse**
+## Value In The Metaverse
 
 As the web, which connects everyone in the world, becomes more spatial in nature, the content that people experience will also become more 3D.
 
